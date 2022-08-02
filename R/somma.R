@@ -3,7 +3,7 @@
 #' @param x un numero
 #' @param y un numero
 #'
-#' @return somam di x e y
+#' @return somma di x e y
 #' @export
 #'
 #' @examples
